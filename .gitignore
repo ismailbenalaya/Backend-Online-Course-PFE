@@ -1,22 +1,18 @@
-# Dependencies 
+# Dependencies
 node_modules/
 
+# Environment variables
+config/.env
 
-#Environment variables
-.config/env
+# Database config
+database/dbconfig.js
 
-
-#database
-.database/dbconfig.js
-
-
-#middleware
-.middleware/image.js 
-.middleware/upload.js
-
-
-
+# Middleware
+middleware/image.js
+middleware/upload.js
 
 # Upload files
-.uploads/*
+uploads/
 
+# IDE configs
+.idea/
