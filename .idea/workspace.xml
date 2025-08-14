@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1f7ead7-8384-4b45-9144-d41fae9e2d75" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/config/.env" beforeDir="false" afterPath="$PROJECT_DIR$/config/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/adminController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/adminController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/categorieController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/categorieController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/condiadatController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/condiadatController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/formateurController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/formateurController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/formationController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/formationController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/sessionController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/sessionController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/statController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/statController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Categorie.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Categorie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Condidat.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Condidat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Formateur.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Formateur.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Formation.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Formation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Review.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Review.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/SessionFormation.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/SessionFormation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/TokenCondidat.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/TokenCondidat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/adminRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/adminRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/authRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/authRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/categorieRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/categorieRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/condidatRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/condidatRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/formateurRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/formateurRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/formationRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/formationRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/sessionRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/sessionRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/statRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/statRouter.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ismailbenalaya/Backend.git&quot;,
+    &quot;accountId&quot;: &quot;2689fe6f-4d5a-4336-b053-e43d3d9e2a4f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2rf4YaIxNryq9YvcXQQ9IhBCi9n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/lkima/Desktop/Python Cours"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1f7ead7-8384-4b45-9144-d41fae9e2d75" name="Changes" comment="" />
+      <created>1736936843883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736936843883</updated>
+    </task>
+    <servers />
+  </component>
+</project>

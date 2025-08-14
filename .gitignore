@@ -1,0 +1,22 @@
+# Dependencies 
+node_modules/
+
+
+#Environment variables
+.config/env
+
+
+#database
+.database/dbconfig.js
+
+
+#middleware
+.middleware/image.js 
+.middleware/upload.js
+
+
+
+
+# Upload files
+.uploads/*
+

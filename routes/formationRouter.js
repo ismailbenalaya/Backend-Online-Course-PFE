@@ -1,0 +1,27 @@
+const express = require('express')
+const Router =  express.Router()
+const auth =  require("../controllers/auth")
+
+const  formationConntroller = require("../controllers/formationController")
+Router.post('/addFormation',formationConntroller.addFormation)
+Router.delete('/supprimerFormation/:formationId',formationConntroller.supprimerFormation)
+Router.get('/getFormation/:formateurId',formationConntroller.getFormationForFormateur)
+Router.get('/getAll',formationConntroller.getAllFormation);
+/*Router.post('/addApprenet',formationConntroller.addMaxApprenent)*/
+Router.post('/isLike/:formationId/:apprenantId',formationConntroller.likeFormation)
+Router.delete('/isDislike/:formationId/:apprenantId',formationConntroller.dislikeFormation)
+Router.get('/getByIdFormation/:formationId',formationConntroller.getByIdFormation)
+Router.put('/updateFormation/:formationId',formationConntroller.updateFormation)
+Router.get('/getByCategory/:categorieId',formationConntroller.getFormationByCategorie)
+Router.get('/calculRating/:formationid',formationConntroller.calculRatingByFormation)
+Router.get('/formationDetaille/:formationId',formationConntroller.getFormationDetaille)
+Router.get('/getAllInscriptedFormationsAdmin/:formationId',formationConntroller.getAllInscriptedFormationsAdmin)
+Router.post('/addAvis/:formationId/:userId',formationConntroller.AddAvis)
+Router.get('/getAllReveiws',formationConntroller.getAllReviews)
+Router.get('/getReveiwByFormation/:formationId',formationConntroller.getReveiwByFormation)
+Router.delete('/deleteReveiw/:reviewId',formationConntroller.deleteAvis)
+Router.put('/AccepterReview',formationConntroller.AccepterComment)
+Router.get('/calculNbrCommentByFormation/:formationId',formationConntroller.calculNbrCommentByFormation)
+Router.get('/AllReviewAccepted',formationConntroller.getAllReviewsAccepted)
+Router.get('/AllReviewNomber',formationConntroller.nombreDeCommentaire)
+module.exports =  Router
