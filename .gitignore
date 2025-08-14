@@ -5,11 +5,10 @@ node_modules/
 config/.env
 
 # Database config
-database/dbconfig.js
+database/
 
 # Middleware
-middleware/image.js
-middleware/upload.js
+middleware/
 
 # Upload files
 uploads/
